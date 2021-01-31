@@ -1,6 +1,14 @@
-# Vue Crypto Dashboard
+# Vue Binance Wallet Dashboard
 
-A Cryptocurrency Dashboard build with Vue JS, PWA enabled, Binance Websocket API for realtime price, amChart for displaying historical charts, SVG Sparkline Chart and Latest News feed from Cryptocompare site. 
+Forked from: github.com/jayeshlab/vue-crypto-dashboard
+
+## Goal
+Actually see everything you own in Binance, in one nice vue ;)
+
+
+# Inherited README STUFF (Still important though)
+
+Built with Vue JS, PWA enabled, Binance Websocket API for realtime price, amChart for displaying historical charts, SVG Sparkline Chart and Latest News feed from Cryptocompare site. 
 
 Demo: [https://jayeshlab.github.io/vue-crypto-dashboard/](https://jayeshlab.github.io/vue-crypto-dashboard/)
 
